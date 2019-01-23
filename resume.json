@@ -2,7 +2,7 @@
   "basics": {
     "name": "Bram Kok",
     "label": "Frontend developer",
-    "picture": "",
+    "picture": "https://en.gravatar.com/userimage/7444984/460928b9fa592d73407442cc59ba01c1.jpg?size=250",
     "email": "bram@bramkok.com",
     "phone": "+31629276607",
     "website": "http://bramkok.com",
@@ -221,8 +221,22 @@
       "name": "Photography",
       "keywords": [
         "Street photography",
+        "Analog photography",
+        "Film scanning ",
         "Photo editing",
         "Photo printing"
+      ]
+    },
+    {
+      "name": "Music",
+      "keywords": [
+        "Composing electronical music",
+        "Playing drums",
+        "Going to concerts",
+        "Classical music",
+        "Electronic music",
+        "Rock, Metal, Experimental",
+        "Hip-hop"
       ]
     }
   ]
