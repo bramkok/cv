@@ -183,26 +183,25 @@
     {
       "institution": "A. Roland Holst College",
       "area": "Economy",
-      "studyType": "High school / VMBO-TA",
+      "studyType": "High school / VMBO-T",
       "startDate": "2000-09-01",
       "endDate": "2004-06-01"
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Frontend Development",
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript"
+        "Javascript",
+        "
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "Backend Development",
       "keywords": [
-        "Mpeg",
+        "BASH",
         "MP4",
         "GIF"
       ]
@@ -220,17 +219,12 @@
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Photography",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Street photography",
+        "Photo editing",
+        "Photo printing"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
     }
   ]
 }
