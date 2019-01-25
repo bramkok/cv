@@ -62,10 +62,12 @@
       "endDate": "2016-08-01",
       "summary": "Simple Check offers businesses a medical check-up to prevent disease and absenteeism. With a mixture of positivity and new technology they offer employees ways to improve their health.",
       "highlights": [
-        "Technical skills: JavaScript (ECMAScript 2015), AngularJS, D3, Node.js",
-        "Developed the front-end product consisting out of a 'Health Dashboard' for customers to gain insights in their health.",
+        "JavaScript (ECMAScript 2015), AngularJS, D3, Node.js",
         "Managed a group of outsourced developers working the backend product.",
-        "Developed marketing, brand, content and sales strategy"
+        "Developed the front-end product (in Angular.JS) consisting out of a 'Health Dashboard' for customers to gain insights in their health and to improve their health and well being.",
+        "Developed marketing, brand, and content strategy around Simple Check.",
+        "Hired a full time content marketeer and become an authority on the subject of Health Checks.",
+        "Developed a sales strategy with an interactive product demo for sales calls."
       ]
     },
     {
@@ -76,10 +78,11 @@
       "endDate": "2016-08-01",
       "summary": "Team Loyalty turns happy customers into loyal customers. They apply a method called ‘event matching’ that improves customer relationships by investing in professional and personal interests of the customer.",
       "highlights": [
-        "Technical skills: JavaScript (ECMAScript 2015), D3, Node.js",
+        "JavaScript (ECMAScript 2015), D3, Node.js",
         "Developed the front-end product for a SaaS solution that offered customer deep insights into their customer relationships.",
         "Managed a group of outsourced developers working the backend product.",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Renewed marketing, brand and content around Team Loyalty.",
+        "Developed a sales strategy with an interactive product demo for sales calls."
       ]
     },
     {
@@ -90,9 +93,10 @@
       "endDate": "2015-07-01",
       "summary": "Zelfwerven.nl offers an Applicant Tracking System that enables HR-professionals to streamline their hiring process.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Designed and built a web-based product from the ground up.",
+        "Applied flat interface design before it was cool based on products from the 2008 tech scene in New York.",
+        "Learned hard it is to change people their habits.",
+        "Learned how bad it is to be stuck in the design phase of a product for too long."
       ]
     },
     {
@@ -103,9 +107,9 @@
       "endDate": "2014-07-01",
       "summary": "Bureau Registratie Integriteit Volkshuisvesting informs, screens and commits supervisory board members, directors and managers with an online questionnaire and reporting tool.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Created a full-stack enviroment for creating and filling out questionnaires",
+        "Worked together with compliance officers and learned a lot about laws and policies concerning governance",
+        "Learned how supervisory boards that consist out of conservative old-boys networks don't embrace innovation."
       ]
     },
     {
@@ -116,9 +120,9 @@
       "endDate": "2014-07-01",
       "summary": "CBK Profiling People is a recruitment agency that recruits people for temporary and permanent positions mostly in the dutch social housing sector.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "",
+        "",
+        ""
       ]
     },
     {
@@ -127,11 +131,9 @@
       "website": "http://luzac.nl",
       "startDate": "2009-01-01",
       "endDate": "2010-12-01",
-      "summary": "Luzac is a private school with over twenty schools in The Netherlands where they offer education that's tailored for the students.",
+      "summary": "Luzac is a private school with over twenty schools in The Netherlands where they offer education that's tailored to the students needs.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        ""
       ]
     },
     {
@@ -142,9 +144,9 @@
       "endDate": "2008-12-01",
       "summary": "Twones BV provides a music service to store, organize, find, and share music played over the Web or on computer. It aggregates music online and offline in a single place; and enables users to socialize, and discover new music and music services.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Working in the Amsterdam Web 2.0 startup scene. A more 'gezellig' (cosy) version of Amsterdam the startup scene today." ,
+        "Worked with artists like Pepijn Lanen and 'web stars' like Nalden on the Twones product.",
+        "Applied flat interface design before it was cool based on products from the 2008 tech scene in New York."
       ]
     },
     {
@@ -155,9 +157,8 @@
       "endDate": "2008-11-01",
       "summary": "PCZapper.TV offers a way to view online video content on the regular TV combining a hardware product and an online platform.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Worked within a larger group of developers.",
+        "Also designed web interfaces for a KPN website that reaced daily 100K+ visitors."
       ]
     },
     {
@@ -168,9 +169,8 @@
       "endDate": "2007-01-01",
       "summary": "Founded the online media and design company RightDesign. RightDesign offered design and web development services.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Learned what it's like to start a business and service clients.",
+        "Learned that I wanted to keep working with web technology despite the initial intention of doing it for only a year."
       ]
     }
   ],
@@ -196,15 +196,38 @@
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript"
+        "JavaScript",
+        "EcmaScript 2015",
+        "React",
+        "Next.js",
+        "Node.js",
+        "AngularJS",
+        "D3"
       ]
     },
     {
       "name": "Backend Development",
       "keywords": [
+        "Node.js",
         "BASH",
-        "MP4",
-        "GIF"
+        "PHP",
+        "Python"
+      ]
+    },
+    {
+      "name": "Server Administration Dev-ops",
+      "keywords": [
+        "Node.js",
+        "BASH",
+        "PHP",
+        "Python"
+      ]
+    },
+    {
+      "name": "Agile Software Development",
+      "keywords": [
+        "SCRUM",
+        "Kanban"
       ]
     }
   ],
@@ -224,9 +247,8 @@
       "keywords": [
         "Street photography",
         "Analog photography",
-        "Film scanning ",
-        "Photo editing",
-        "Photo printing"
+        "Film scanning",
+        "Printing"
       ]
     },
     {
