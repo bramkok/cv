@@ -36,9 +36,10 @@
       "endDate": "2018-12-01",
       "summary": "iBOOD is Europe's first and largest day-to-date site. For ten years, iBOOD has offered a brand new A-brand brand at the very best internet price.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "JavaScript (ECMAScript 2015), React, Next.js",
+        "Modernized the frontend web stack from PHP/jQuery to React/Next.js.",
+        "Developed a high traffic page with dynamic viewing capabilities in React.",
+        "Learned how to do agile development properly within a large team of developers."
       ]
     },
     {
@@ -49,9 +50,8 @@
       "endDate": "2017-07-01",
       "summary": "A year of personal sabbaticle after working for ten years.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Photography: developed a clear style and aesthetic by doing photography on a full-time basis.",
+        "Technology: broadening of skills in React, Node.js, Python, Bash, Docker."
       ]
     },
     {
@@ -62,9 +62,10 @@
       "endDate": "2016-08-01",
       "summary": "Simple Check offers businesses a medical check-up to prevent disease and absenteeism. With a mixture of positivity and new technology they offer employees ways to improve their health.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Technical skills: JavaScript (ECMAScript 2015), AngularJS, D3, Node.js",
+        "Developed the front-end product consisting out of a 'Health Dashboard' for customers to gain insights in their health.",
+        "Managed a group of outsourced developers working the backend product.",
+        "Developed marketing, brand, content and sales strategy"
       ]
     },
     {
@@ -75,8 +76,9 @@
       "endDate": "2016-08-01",
       "summary": "Team Loyalty turns happy customers into loyal customers. They apply a method called ‘event matching’ that improves customer relationships by investing in professional and personal interests of the customer.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
+        "Technical skills: JavaScript (ECMAScript 2015), D3, Node.js",
+        "Developed the front-end product for a SaaS solution that offered customer deep insights into their customer relationships.",
+        "Managed a group of outsourced developers working the backend product.",
         "Optimized an algorithm that holds the current world record for Weisman Scores"
       ]
     },
@@ -233,10 +235,7 @@
         "Composing electronical music",
         "Playing drums",
         "Going to concerts",
-        "Classical music",
-        "Electronic music",
-        "Rock, Metal, Experimental",
-        "Hip-hop"
+        "Classical music, Electronic music, Rock, Metal, Experimental, Hip-hop"
       ]
     }
   ]
