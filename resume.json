@@ -91,12 +91,14 @@
       "website": "http://zelfwerven.nl",
       "startDate": "2010-06-01",
       "endDate": "2015-07-01",
-      "summary": "Zelfwerven.nl offers an Applicant Tracking System that enables HR-professionals to streamline their hiring process.",
+      "summary": "Zelfwerven.nl offers intuitive recruitment software for publishing vacancies, receiving applications, reviewing applicants.",
       "highlights": [
-        "Designed and built a web-based product from the ground up.",
-        "Applied flat interface design before it was cool based on products from the 2008 tech scene in New York.",
-        "Learned hard it is to change people their habits.",
-        "Learned how bad it is to be stuck in the design phase of a product for too long."
+        "PHP, MySQL, HTML, CSS, JavaScript",
+        "Designed and built a web-based product from the ground up with the insights gained from working on a prior recruitment system.",
+        "Applied flat design to the interface before it was cool based on products from the 2008 web scene in New York.",
+        "Learned how challenging it is to change people their professional working behavior and habits.",
+        "Learned how bad it is to be stuck in the design phase of a product for too long.",
+        "Learned how bad it is to say yes to every feature request."
       ]
     },
     {
@@ -120,7 +122,7 @@
       "endDate": "2014-07-01",
       "summary": "CBK Profiling People is a recruitment agency that recruits people for temporary and permanent positions mostly in the dutch social housing sector.",
       "highlights": [
-        "",
+        "Built a Content Management Applicant Tracking System",
         "",
         ""
       ]
@@ -215,7 +217,7 @@
       ]
     },
     {
-      "name": "Server Administration Dev-ops",
+      "name": "Server Administration",
       "keywords": [
         "Node.js",
         "BASH",
