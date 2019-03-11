@@ -109,6 +109,7 @@
       "endDate": "2014-07-01",
       "summary": "Bureau Registratie Integriteit Volkshuisvesting provides integrity screenings. Bureau REIN informs, screens and commits supervisory board members, directors and managers using an online questionnaire and a report created by a compliance officer.",
       "highlights": [
+        "PHP, MySQL, HTML, CSS, JavaScript",
         "Created a full-stack enviroment for creating and filling out questionnaires",
         "Worked together with compliance officers and learned a lot about laws and policies concerning governance",
         "Learned how supervisory boards that consist out of conservative old-boys networks don't embrace innovation."
@@ -122,9 +123,8 @@
       "endDate": "2014-07-01",
       "summary": "CBK Profiling People is a recruitment agency that recruits people for temporary and permanent positions mostly in the dutch social housing sector.",
       "highlights": [
-        "Built a Content Management Applicant Tracking System",
-        "",
-        ""
+        "PHP, MySQL, HTML, CSS, JavaScript",
+        "Built a Content Management System and Applicant Tracking System"
       ]
     },
     {
@@ -135,7 +135,8 @@
       "endDate": "2010-12-01",
       "summary": "Luzac is a private school with over twenty schools in The Netherlands where they offer education that's tailored to the students needs.",
       "highlights": [
-        ""
+        "HTML, CSS, JavaScript",
+        "Provided solutions to administrative tasks that allowed for teachers to spend more time on teaching instead of unnecsessary logistics."
       ]
     },
     {
@@ -146,9 +147,10 @@
       "endDate": "2008-12-01",
       "summary": "Twones BV provides a music service to store, organize, find, and share music played over the Web or on computer. It aggregates music online and offline in a single place; and enables users to socialize, and discover new music and music services.",
       "highlights": [
-        "Working in the Amsterdam Web 2.0 startup scene. A more 'gezellig' (cosy) version of Amsterdam the startup scene today." ,
+        "HTML, CSS, JavaScript",
+        "Working in the Amsterdam Web 2.0 startup scene which a more 'gezellig' (cosy) version of today's startup scene in Amsterdam.",
         "Worked with artists like Pepijn Lanen and 'web stars' like Nalden on the Twones product.",
-        "Applied flat interface design before it was cool based on products from the 2008 tech scene in New York."
+        "Applied flat interface design before it was cool based on products coming out of the 2008 tech scene in New York."
       ]
     },
     {
@@ -159,8 +161,9 @@
       "endDate": "2008-11-01",
       "summary": "PCZapper.TV offers a way to view online video content on the regular TV combining a hardware product and an online platform.",
       "highlights": [
+        "Adobe Illustrator, Adobe Photoshop, HTML, CSS",
         "Worked within a larger group of developers.",
-        "Also designed web interfaces for a KPN website that reaced daily 100K+ visitors."
+        "Designed web interfaces for a KPN website that reaced daily 100K+ visitors."
       ]
     },
     {
@@ -171,8 +174,9 @@
       "endDate": "2007-01-01",
       "summary": "Founded the online media and design company RightDesign. RightDesign offered design and web development services.",
       "highlights": [
+        "Adobe Illustrator, Adobe Photoshop, HTML, CSS",
         "Learned what it's like to start a business and service clients.",
-        "Learned that I wanted to keep working with web technology despite the initial intention of doing it for only a year."
+        "Learned that I wanted to keep building things for the web despite my initial intention of doing it for only a year."
       ]
     }
   ],
@@ -181,8 +185,7 @@
       "institution": "A. Roland Holst College",
       "area": "Culture and Society",
       "studyType": "High school / HAVO",
-      "startDate": "2004-09-01",
-      "endDate": "2006-06-01"
+      "startDate": "2004-09-01", "endDate": "2006-06-01"
     },
     {
       "institution": "A. Roland Holst College",
@@ -249,8 +252,7 @@
       "keywords": [
         "Street photography",
         "Analog photography",
-        "Film scanning",
-        "Printing"
+        "Film scanning"
       ]
     },
     {
