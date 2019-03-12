@@ -140,6 +140,21 @@
       ]
     },
     {
+      "company": "TwitterMail",
+      "position": "Founder & Frontend developer",
+      "website": "https://twitter.com/twittermail",
+      "startDate": "2007-06-01",
+      "endDate": "2009-12-01",
+      "summary": "Back in 2007, in the 'pre-iPhone era', Twitter offered only a simple web app and SMS for posting tweets on mobile devices. TwitterMail extended this with an email service that allowed for users to publish tweets via a secret email address that was hooked up to the Twitter API. This was especially popular in Asia and among BlackBerry users who often could only use email for communication.",
+      "highlights": [
+        "HTML, CSS, JavaScript",
+        "Meeting the Twitter founders who we're very happy with TwitterMail extending the Twitter ecosystem by building on top of the Twitter API.",
+        "Receiving lots of appreciation from users who used the service for a wide variety of use cases",
+        "Having 85000 users sign up for the service",
+        "Building the service together with Boris Veldhuijzen van Zanten who became a good friend during that time and has taught lots of  valuable lessons."
+      ]
+    },
+    {
       "company": "Twones B.V.",
       "position": "Frontend developer",
       "website": "http://twones.com",
