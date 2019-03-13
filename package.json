@@ -11,5 +11,8 @@
   "homepage": "https://github.com/bramkok/cv",
   "dependencies": {
     "jsonresume-theme-even": "^0.2.0"
+  },
+  "scripts": {
+    "export": "resume export cv.html"
   }
 }
