@@ -5,6 +5,7 @@
     "picture": "https://en.gravatar.com/userimage/7444984/460928b9fa592d73407442cc59ba01c1.jpg?size=250",
     "email": "bram@bramkok.com",
     "phone": "+31629256607",
+    "kvk": "74183745",
     "website": "http://bramkok.com",
     "summary": "I'm a frontend developer with 13 years of experience in developing, designing and architechting web-based products and applications.",
     "location": {
@@ -28,6 +29,13 @@
     ]
   },
   "work": [
+    {
+      "company": "bramkok.com",
+      "position": "Owner",
+      "website": "http://bramkok.com",
+      "startDate": "2018-12-01",
+      "summary": "Development, design and architecture of web-based products and applications."
+    },
     {
       "company": "iBOOD.com",
       "position": "Frontend developer",
