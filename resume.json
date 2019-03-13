@@ -6,7 +6,7 @@
     "email": "bram@bramkok.com",
     "phone": "+31629256607",
     "website": "http://bramkok.com",
-    "summary": "I'm a frontend developer with 10+ years experience in developing, designing and architechting web-based products and applications.",
+    "summary": "I'm a frontend developer with 13 years of experience in developing, designing and architechting web-based products and applications.",
     "location": {
       "address": "Rooseveltlaan 45-2",
       "postalCode": "1079 AC",
@@ -48,7 +48,7 @@
       "website": "http://bramkok.com",
       "startDate": "2016-08-01",
       "endDate": "2017-07-01",
-      "summary": "A year of personal sabbaticle after working for ten years.",
+      "summary": "A year of personal sabbaticle after having worked for ten years.",
       "highlights": [
         "Photography: developed a clear style and aesthetic by doing photography on a full-time basis.",
         "Technology: broadening of skills in React, Node.js, Python, Bash, Docker."
@@ -63,10 +63,10 @@
       "summary": "Simple Check offers businesses a medical check-up to prevent disease and absenteeism. With a mixture of positivity and new technology they offer employees ways to improve their health.",
       "highlights": [
         "JavaScript (ECMAScript 2015), AngularJS, D3, Node.js",
-        "Managed a group of outsourced developers working the backend product.",
-        "Developed the front-end product (in Angular.JS) consisting out of a 'Health Dashboard' for customers to gain insights in their health and to improve their health and well being.",
+        "Managed a group of outsourced developers working on the backend product.",
+        "Developed the front-end product (Angular.JS) consisting out of a 'Health Dashboard' for customers to gain insights in their health and to improve their health and well being.",
         "Developed marketing, brand, and content strategy around Simple Check.",
-        "Hired a full time content marketeer and become an authority on the subject of Health Checks.",
+        "Hired a full time content marketeer and became an authority on the subject of Health Checks.",
         "Developed a sales strategy with an interactive product demo for sales calls."
       ]
     },
@@ -76,7 +76,7 @@
       "website": "http://teamloyalty.nl",
       "startDate": "2014-08-01",
       "endDate": "2016-08-01",
-      "summary": "Team Loyalty turns happy customers into loyal customers. They apply a method called ‘event matching’ that improves customer relationships by investing in professional and personal interests of the customer.",
+      "summary": "Team Loyalty turns happy customers into loyal customers. They apply a method called 'event matching' that improves customer relationships by investing in professional and personal interests of the customer.",
       "highlights": [
         "JavaScript (ECMAScript 2015), D3, Node.js",
         "Developed the front-end product for a SaaS solution that offered customer deep insights into their customer relationships.",
@@ -95,7 +95,7 @@
       "highlights": [
         "PHP, MySQL, HTML, CSS, JavaScript",
         "Designed and built a web-based product from the ground up with the insights gained from working on a prior recruitment system.",
-        "Applied flat design to the interface before it was cool based on products from the 2008 web scene in New York.",
+        "Applied flat design to the interface before it was cool based on products coming out of the 2008 web scene in New York.",
         "Learned how challenging it is to change people their professional working behavior and habits.",
         "Learned how bad it is to be stuck in the design phase of a product for too long.",
         "Learned how bad it is to say yes to every feature request."
@@ -124,7 +124,8 @@
       "summary": "CBK Profiling People is a recruitment agency that recruits people for temporary and permanent positions mostly in the dutch social housing sector.",
       "highlights": [
         "PHP, MySQL, HTML, CSS, JavaScript",
-        "Built a Content Management System and Applicant Tracking System"
+        "Built a Content Management System and Applicant Tracking System",
+        "Started to work related projects within the company." 
       ]
     },
     {
@@ -151,7 +152,7 @@
         "Meeting the Twitter founders who we're very happy with TwitterMail extending the Twitter ecosystem by building on top of the Twitter API.",
         "Receiving lots of appreciation from users who used the service for a wide variety of use cases",
         "Having 85000 users sign up for the service",
-        "Building the service together with Boris Veldhuijzen van Zanten who became a good friend during that time and has taught lots of  valuable lessons."
+        "Building the service together with Boris Veldhuijzen van Zanten who became a good friend during that time and has taught me lots of valuable lessons."
       ]
     },
     {
@@ -217,7 +218,7 @@
         "HTML",
         "CSS",
         "JavaScript",
-        "EcmaScript 2015",
+        "ECMAScript 2015",
         "React",
         "Next.js",
         "Node.js",
@@ -276,7 +277,7 @@
         "Composing electronical music",
         "Playing drums",
         "Going to concerts",
-        "Classical music, Electronic music, Rock, Metal, Experimental, Hip-hop"
+        "Classical, Modern, Electronic, Rock, Metal, Experimental, Hip-hop"
       ]
     }
   ]

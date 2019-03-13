@@ -1,15 +1,14 @@
 {
-  "name": "resume",
+  "name": "cv",
   "version": "1.0.0",
-  "description": "Bram Kok resume",
-  "main": "index.js",
+  "description": "Bram Kok CV",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bramkok/resume.git"
+    "url": "git+https://github.com/bramkok/cv.git"
   },
   "author": "Bram Kok",
   "license": "MIT",
-  "homepage": "https://github.com/bramkok/resume",
+  "homepage": "https://github.com/bramkok/cv",
   "dependencies": {
     "jsonresume-theme-even": "^0.2.0"
   }
