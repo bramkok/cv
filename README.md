@@ -8,10 +8,14 @@
 
 `npm install -g resume-cli`
 
-### Export resume
+### Export resume to html
 
 `resume export cv.html`
 
 Or:
 
 `npm run export`
+
+### Export resume to github page
+
+`npm run export-docs`

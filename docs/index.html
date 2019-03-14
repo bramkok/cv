@@ -1,0 +1,745 @@
+<!doctype html>
+<html>
+	<head>
+	
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, minimal-ui">
+	
+	<title>Bram Kok</title>
+	
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/2.0.2/octicons.min.css">
+	
+	<style type="text/css">
+	@import url(
+	https://fonts.googleapis.com/css?family=Lato:400,700
+);
+body {
+	background: #fff;
+	font-family: Lato, sans-serif;
+	margin: 0 0 80px;
+}
+a {
+	color: #2ecc71;
+}
+a:focus,
+a:hover {
+	color: #f1c40f;
+	text-decoration: none;
+}
+p {
+	line-height: 1.5;
+	margin: 0;
+}
+p + p {
+	margin-top: 10px;
+}
+h1,
+h2,
+h3,
+h4 {
+	margin-top: 0
+}
+section {
+	margin-top: 30px;
+}
+li {
+	line-height: 1.8;
+	list-style: none;
+}
+li:before {
+	content: "\f052";
+	float: left;
+	font: 13px Octicons;
+	margin-top: 6px;
+	margin-left: -20px;
+	opacity: .1;
+	position: absolute;
+}
+blockquote {
+	border-left: 5px solid #e7e9ec;
+	font-size: 14px;
+}
+em {
+	color: #95a5a6;
+	font-weight: normal;
+	font-style: normal;
+}
+h4 span:first-child {
+	color: #000;
+	font-weight: bold;
+}
+.container {
+	max-width: 750px;
+	padding: 0 30px;
+}
+.col-sm-6 {
+	margin-bottom: 10px;
+}
+.col-sm-12 h4 {
+	margin-top: 12px; 
+}
+.col-sm-12 + .col-sm-12 {
+	margin-top: 30px;
+}
+#header {
+	background: #f4f6f6;
+	padding: 50px 0;
+	margin-bottom: 30px;
+}
+#header h2 {
+	color: #95a5a6;
+	font-size: 24px;
+}
+#content h3 {
+	color: #f1c40f;
+	font-size: 26px;
+	margin-top: -4px;
+}
+#content aside {
+	text-align: right;
+	padding-right: 30px;
+}
+#profiles .network {
+	text-transform: capitalize;
+}
+#work .position,
+#volunteer .position {
+	font-weight: bold;
+	margin-bottom: 8px;
+}
+#education .area {
+	font-weight: bold;
+}
+#education .area:before {
+	content: "\f0d7";
+	font: 16px Octicons;
+	margin-right: 6px;
+}
+#education .studyType {
+	margin-left: 25px;
+}
+#awards .summary,
+#publications .summary {
+	margin-top: 8px;
+}
+#publications .website a:before {
+	content: attr(href);
+}
+
+@media (min-width: 480px) {
+	.strike-through {
+		border-top: 1px solid #f4f6f6;
+		height: 20px;
+		margin-top: 12px;
+		margin-bottom: -2px;
+		position: relative;
+	}
+	.strike-through span,
+	.strike-through a {
+		background: #fff;
+		position: absolute;
+	}
+	.strike-through span:first-child {
+		padding-right: 20px;
+		margin-top: -12px;
+	}
+	.strike-through span + span {
+		font-size: 14px;
+		margin-top: -10px;
+		padding-left: 20px;
+		right: 0;
+	}
+}
+@media (max-width: 768px) {
+	.col-sm-6:last-child {
+		margin-bottom: 0px;
+	}
+	#content aside {
+		margin-bottom: 20px;
+		padding-right: 0;
+		text-align: left;
+	}
+	#publications .website a:before {
+		content: "View publication";
+	}
+}
+@media (max-width: 480px) {
+	h1 {
+		font-size: 26px;
+	}
+	.date {
+		font-size: 14px;
+		margin-bottom: 5px;
+	}
+	.strike-through span:first-child {
+		margin-bottom: 7px;
+	}
+	.strike-through span {
+		display: block;
+	}	
+	#header {
+		margin-bottom: 10px;
+		padding: 40px 0;
+	}
+	#actions {
+		display: none;
+	}
+}
+
+	</style>
+	
+	</head>
+	<body>
+	
+	<header id="header">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-9 col-sm-push-3">
+					<h1>
+						Bram Kok
+					</h1>
+					<h2>
+						Frontend developer
+					</h2>
+				</div>
+			</div>
+		</div>
+	</header>
+	<div id="content" class="container">
+
+	<section id="contact" class="row">
+		<aside class="col-sm-3">
+			<h3>Contact</h3>
+		</aside>
+		<div class="col-sm-9">
+			<div class="row">
+			<div class="col-sm-6">
+				<strong>Email</strong>
+				<div class="email">bram@bramkok.com</div>
+			</div>
+			<div class="col-sm-6">
+				<strong>Phone</strong>
+				<div class="phone">+31629256607</div>
+			</div>
+			<div class="col-sm-6">
+				<strong>Website</strong>
+				<div class="website">
+					<a href="http://bramkok.com">http://bramkok.com</a>
+				</div>
+			</div>
+			</div>
+		</div>
+	</section>
+	<section id="about" class="row">
+		<aside class="col-sm-3">
+			<h3>About</h3>
+		</aside>
+		<div class="col-sm-9">
+			<p>I&#x27;m a frontend developer with 13 years of experience in developing, designing and architechting web-based products and applications.</p>
+		</div>
+	</section>
+	<section id="profiles" class="row">
+		<aside class="col-sm-3">
+			<h3>Profiles</h3>
+		</aside>
+		<div class="col-sm-9">
+			<div class="row">
+				<div class="col-sm-6">
+					<strong class="network">
+						LinkedIn
+					</strong>
+					<div class="username">
+						<div class="url">
+							<a href="https://www.linkedin.com/in/bramkok">bramkok</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6">
+					<strong class="network">
+						GitHub
+					</strong>
+					<div class="username">
+						<div class="url">
+							<a href="https://github.com/bramkok">bramkok</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section id="work" class="row">
+		<aside class="col-sm-3">
+			<h3>Work</h3>
+		</aside>
+		<div class="col-sm-9">
+			<div class="row">
+			<div class="col-sm-12">
+				<h4 class="strike-through">
+					<span>bramkok.com</span>
+					<span class="date">
+						2018-12-01 — 
+					</span>
+				</h4>
+				<div class="website pull-right">
+					<a href="http://bramkok.com">http://bramkok.com</a>
+				</div>
+				<div class="position">
+					Owner
+				</div>
+				<div class="summary">
+					<p>Development, design and architecture of web-based products and applications.</p>
+				</div>
+			</div>
+			<div class="col-sm-12">
+				<h4 class="strike-through">
+					<span>iBOOD.com</span>
+					<span class="date">
+						2017-07-01 — 2018-12-01
+					</span>
+				</h4>
+				<div class="website pull-right">
+					<a href="http://ibood.com">http://ibood.com</a>
+				</div>
+				<div class="position">
+					Frontend developer
+				</div>
+				<div class="summary">
+					<p>iBOOD is Europe&#x27;s first and largest daily deal site. For ten years, iBOOD has offered a brand new A-brand brand at the very best internet price.</p>
+				</div>
+				<h4>Highlights</h4>
+				<ul class="highlights">
+					<li class="bullet">JavaScript (ECMAScript 2015), React, Next.js</li>
+					<li class="bullet">Modernized the frontend web stack from PHP/jQuery to React/Next.js.</li>
+					<li class="bullet">Developed a high traffic page with dynamic viewing capabilities in React.</li>
+					<li class="bullet">Learned how to do agile development properly within a large team of developers.</li>
+				</ul>
+			</div>
+			<div class="col-sm-12">
+				<h4 class="strike-through">
+					<span>Personal</span>
+					<span class="date">
+						2016-08-01 — 2017-07-01
+					</span>
+				</h4>
+				<div class="website pull-right">
+					<a href="http://bramkok.com">http://bramkok.com</a>
+				</div>
+				<div class="position">
+					Sabbatical
+				</div>
+				<div class="summary">
+					<p>A year of personal sabbatical after having worked for ten years.</p>
+				</div>
+				<h4>Highlights</h4>
+				<ul class="highlights">
+					<li class="bullet">Photography: developed a clear style and aesthetic by doing photography on a full-time basis.</li>
+					<li class="bullet">Technology: broadening of skills in React, Node.js, Python, Bash, Docker.</li>
+				</ul>
+			</div>
+			<div class="col-sm-12">
+				<h4 class="strike-through">
+					<span>Simple Check B.V.</span>
+					<span class="date">
+						2014-08-01 — 2016-08-01
+					</span>
+				</h4>
+				<div class="website pull-right">
+					<a href="http://simplecheck.nl">http://simplecheck.nl</a>
+				</div>
+				<div class="position">
+					Software developer
+				</div>
+				<div class="summary">
+					<p>Simple Check offers businesses a medical check-up to prevent disease and absenteeism. With a mixture of positivity and new technology, they offer employees ways to improve their health.</p>
+				</div>
+				<h4>Highlights</h4>
+				<ul class="highlights">
+					<li class="bullet">JavaScript (ECMAScript 2015), AngularJS, D3, Node.js</li>
+					<li class="bullet">Managed a group of outsourced developers working on the backend product.</li>
+					<li class="bullet">Developed the front-end product (Angular.JS) consisting out of a &#x27;Health Dashboard&#x27; for customers to gain insights in their health and to improve their health and well being.</li>
+					<li class="bullet">Developed marketing, brand, and content strategy around Simple Check.</li>
+					<li class="bullet">Hired a full-time content marketeer and became an authority on the subject of Health Checks.</li>
+					<li class="bullet">Developed a sales strategy with an interactive product demo for sales calls.</li>
+				</ul>
+			</div>
+			<div class="col-sm-12">
+				<h4 class="strike-through">
+					<span>Team Loyalty B.V.</span>
+					<span class="date">
+						2014-08-01 — 2016-08-01
+					</span>
+				</h4>
+				<div class="website pull-right">
+					<a href="http://teamloyalty.nl">http://teamloyalty.nl</a>
+				</div>
+				<div class="position">
+					Software developer
+				</div>
+				<div class="summary">
+					<p>Team Loyalty turns happy customers into loyal customers. They apply a method called &#x27;event matching&#x27; that improves customer relationships by investing in the professional and personal interests of the customer.</p>
+				</div>
+				<h4>Highlights</h4>
+				<ul class="highlights">
+					<li class="bullet">JavaScript (ECMAScript 2015), D3, Node.js</li>
+					<li class="bullet">Developed the front-end product for a SaaS solution that offered customer deep insights into their customer relationships.</li>
+					<li class="bullet">Managed a group of outsourced developers working the backend product.</li>
+					<li class="bullet">Renewed marketing, brand and content around Team Loyalty.</li>
+					<li class="bullet">Developed a sales strategy with an interactive product demo for sales calls.</li>
+				</ul>
+			</div>
+			<div class="col-sm-12">
+				<h4 class="strike-through">
+					<span>Zelfwerven.nl</span>
+					<span class="date">
+						2010-06-01 — 2015-07-01
+					</span>
+				</h4>
+				<div class="website pull-right">
+					<a href="http://zelfwerven.nl">http://zelfwerven.nl</a>
+				</div>
+				<div class="position">
+					Software developer
+				</div>
+				<div class="summary">
+					<p>Zelfwerven.nl offers intuitive recruitment software for publishing vacancies, receiving applications, reviewing applicants.</p>
+				</div>
+				<h4>Highlights</h4>
+				<ul class="highlights">
+					<li class="bullet">PHP, MySQL, HTML, CSS, JavaScript</li>
+					<li class="bullet">Designed and built a web-based product from the ground up with the insights gained from working on a prior recruitment system.</li>
+					<li class="bullet">Applied flat design to the interface before it was cool based on products coming out of the 2008 web scene in New York.</li>
+					<li class="bullet">Learned how challenging it is to change people their professional working behavior and habits.</li>
+					<li class="bullet">Learned how bad it is to be stuck in the design phase of a product for too long.</li>
+					<li class="bullet">Learned how bad it is to say yes to every feature request.</li>
+				</ul>
+			</div>
+			<div class="col-sm-12">
+				<h4 class="strike-through">
+					<span>Bureau REIN</span>
+					<span class="date">
+						2009-04-01 — 2014-07-01
+					</span>
+				</h4>
+				<div class="website pull-right">
+					<a href="http://bureaurein.nl">http://bureaurein.nl</a>
+				</div>
+				<div class="position">
+					Software developer
+				</div>
+				<div class="summary">
+					<p>Bureau Registratie Integriteit Volkshuisvesting provides integrity screenings. Bureau REIN informs, screens and commits supervisory board members, directors and managers using an online questionnaire and a report created by a compliance officer.</p>
+				</div>
+				<h4>Highlights</h4>
+				<ul class="highlights">
+					<li class="bullet">PHP, MySQL, HTML, CSS, JavaScript</li>
+					<li class="bullet">Created a full-stack environment for creating and filling out questionnaires</li>
+					<li class="bullet">Worked together with compliance officers and learned a lot about laws and policies concerning governance</li>
+					<li class="bullet">Learned how supervisory boards that consist of conservative old-boys networks don&#x27;t embrace innovation.</li>
+				</ul>
+			</div>
+			<div class="col-sm-12">
+				<h4 class="strike-through">
+					<span>CBK Profiling People</span>
+					<span class="date">
+						2009-03-01 — 2014-07-01
+					</span>
+				</h4>
+				<div class="website pull-right">
+					<a href="http://cbk.org">http://cbk.org</a>
+				</div>
+				<div class="position">
+					Software developer
+				</div>
+				<div class="summary">
+					<p>CBK Profiling People is a recruitment agency that recruits people for temporary and permanent positions mostly in the Dutch social housing sector.</p>
+				</div>
+				<h4>Highlights</h4>
+				<ul class="highlights">
+					<li class="bullet">PHP, MySQL, HTML, CSS, JavaScript</li>
+					<li class="bullet">Built a Content Management System and Applicant Tracking System</li>
+					<li class="bullet">Started new projects within the company related to industry it operates in.</li>
+				</ul>
+			</div>
+			<div class="col-sm-12">
+				<h4 class="strike-through">
+					<span>Luzac College</span>
+					<span class="date">
+						2009-01-01 — 2010-12-01
+					</span>
+				</h4>
+				<div class="website pull-right">
+					<a href="http://luzac.nl">http://luzac.nl</a>
+				</div>
+				<div class="position">
+					Frontend developer
+				</div>
+				<div class="summary">
+					<p>Luzac is a private school with over twenty schools in The Netherlands where they offer education that&#x27;s tailored to the student&#x27;s needs.</p>
+				</div>
+				<h4>Highlights</h4>
+				<ul class="highlights">
+					<li class="bullet">HTML, CSS, JavaScript</li>
+					<li class="bullet">Provided solutions to administrative tasks that allowed for teachers to spend more time on teaching instead of unnecessary logistics.</li>
+				</ul>
+			</div>
+			<div class="col-sm-12">
+				<h4 class="strike-through">
+					<span>TwitterMail</span>
+					<span class="date">
+						2007-06-01 — 2009-12-01
+					</span>
+				</h4>
+				<div class="website pull-right">
+					<a href="https://twitter.com/twittermail">https://twitter.com/twittermail</a>
+				</div>
+				<div class="position">
+					Founder &amp; Frontend developer
+				</div>
+				<div class="summary">
+					<p>Back in 2007, in the &#x27;pre-iPhone era&#x27;, Twitter offered only a simple web app and SMS for posting tweets on mobile devices. TwitterMail extended this with an email service that allowed users to publish tweets via a secret email address that was hooked up to the Twitter API. This was especially popular in Asia and among BlackBerry users who often could only use email for communication.</p>
+				</div>
+				<h4>Highlights</h4>
+				<ul class="highlights">
+					<li class="bullet">HTML, CSS, JavaScript</li>
+					<li class="bullet">Meeting the Twitter founders who we&#x27;re very happy with TwitterMail extending the Twitter ecosystem by building on top of the Twitter API.</li>
+					<li class="bullet">Receiving lots of appreciation from users who used the service for a wide variety of use cases</li>
+					<li class="bullet">Having 85000 users sign up for the service</li>
+					<li class="bullet">Building the service together with Boris Veldhuijzen van Zanten who became a good friend during that time and has taught me lots of valuable lessons.</li>
+				</ul>
+			</div>
+			<div class="col-sm-12">
+				<h4 class="strike-through">
+					<span>Twones B.V.</span>
+					<span class="date">
+						2008-03-01 — 2008-12-01
+					</span>
+				</h4>
+				<div class="website pull-right">
+					<a href="http://twones.com">http://twones.com</a>
+				</div>
+				<div class="position">
+					Frontend developer
+				</div>
+				<div class="summary">
+					<p>Twones BV provides a music service to store, organize, find, and share music played over the Web or computer. It aggregates music online and offline in a single place, and enables users to socialize, and discover new music and music services.</p>
+				</div>
+				<h4>Highlights</h4>
+				<ul class="highlights">
+					<li class="bullet">HTML, CSS, JavaScript</li>
+					<li class="bullet">Working in the Amsterdam Web 2.0 startup scene which a more &#x27;gezellig&#x27; (cosy) version of today&#x27;s startup scene in Amsterdam.</li>
+					<li class="bullet">Worked with artists like Pepijn Lanen and &#x27;web stars&#x27; like Nalden on the Twones product.</li>
+					<li class="bullet">Applied flat interface design before it was cool based on products coming out of the 2008 tech scene in New York.</li>
+				</ul>
+			</div>
+			<div class="col-sm-12">
+				<h4 class="strike-through">
+					<span>PCzapper.TV B.V.</span>
+					<span class="date">
+						2007-11-01 — 2008-11-01
+					</span>
+				</h4>
+				<div class="website pull-right">
+					<a href="http://ibood.com">http://ibood.com</a>
+				</div>
+				<div class="position">
+					UI designer
+				</div>
+				<div class="summary">
+					<p>PCZapper.TV offers a way to view online video content on regular TV combining a hardware product and an online platform.</p>
+				</div>
+				<h4>Highlights</h4>
+				<ul class="highlights">
+					<li class="bullet">Adobe Illustrator, Adobe Photoshop, HTML, CSS</li>
+					<li class="bullet">Worked within a larger group of developers.</li>
+					<li class="bullet">Designed web interfaces for a KPN website that reached daily 100K+ visitors.</li>
+				</ul>
+			</div>
+			<div class="col-sm-12">
+				<h4 class="strike-through">
+					<span>RightDesign V.O.F.</span>
+					<span class="date">
+						2006-01-01 — 2007-01-01
+					</span>
+				</h4>
+				<div class="website pull-right">
+					<a href="http://ibood.com">http://ibood.com</a>
+				</div>
+				<div class="position">
+					Founder
+				</div>
+				<div class="summary">
+					<p>Founded the online media and design company RightDesign. RightDesign offered design and web development services.</p>
+				</div>
+				<h4>Highlights</h4>
+				<ul class="highlights">
+					<li class="bullet">Adobe Illustrator, Adobe Photoshop, HTML, CSS</li>
+					<li class="bullet">Learned what it&#x27;s like to start a business and service clients.</li>
+					<li class="bullet">Learned that I wanted to keep building things for the web despite my initial intention of doing it for only a year.</li>
+				</ul>
+			</div>
+			</div>
+		</div>
+	</section>
+
+	
+	<section id="education" class="row">
+		<aside class="col-sm-3">
+			<h3>Education</h3>
+		</aside>
+		<div class="col-sm-9">
+			<div class="row">
+			<div class="col-sm-12">
+				<h4 class="strike-through">
+					<span>A. Roland Holst College</span>
+					<span class="date">
+						2004-09-01 — 2006-06-01
+					</span>
+				</h4>
+				<div class="area">
+					Culture and Society
+				</div>
+				<div class="studyType">
+					High school / HAVO
+				</div>
+			</div>
+			<div class="col-sm-12">
+				<h4 class="strike-through">
+					<span>A. Roland Holst College</span>
+					<span class="date">
+						2000-09-01 — 2004-06-01
+					</span>
+				</h4>
+				<div class="area">
+					Economy
+				</div>
+				<div class="studyType">
+					High school / VMBO-T
+				</div>
+			</div>
+			</div>
+		</div>
+	</section>
+	
+	
+	
+	<section id="skills" class="row">
+		<aside class="col-sm-3">
+			<h3>Skills</h3>
+		</aside>
+		<div class="col-sm-9">
+			<div class="row">
+			<div class="col-sm-6">
+				<div class="name">
+					<h4>Frontend Development</h4>
+				</div>
+				<ul class="keywords">
+					<li>HTML</li>
+					<li>CSS</li>
+					<li>JavaScript</li>
+					<li>ECMAScript 2015</li>
+					<li>React</li>
+					<li>Next.js</li>
+					<li>Node.js</li>
+					<li>AngularJS</li>
+					<li>D3</li>
+				</ul>
+			</div>
+			<div class="col-sm-6">
+				<div class="name">
+					<h4>Backend Development</h4>
+				</div>
+				<ul class="keywords">
+					<li>Node.js</li>
+					<li>BASH</li>
+					<li>PHP</li>
+					<li>Python</li>
+				</ul>
+			</div>
+			<div class="col-sm-6">
+				<div class="name">
+					<h4>Server Administration</h4>
+				</div>
+				<ul class="keywords">
+					<li>Node.js</li>
+					<li>BASH</li>
+					<li>PHP</li>
+					<li>Python</li>
+				</ul>
+			</div>
+			<div class="col-sm-6">
+				<div class="name">
+					<h4>Agile Software Development</h4>
+				</div>
+				<ul class="keywords">
+					<li>SCRUM</li>
+					<li>Kanban</li>
+				</ul>
+			</div>
+			</div>
+		</div>
+	</section>
+
+	<section id="languages" class="row">
+		<aside class="col-sm-3">
+			<h3>Languages</h3>
+		</aside>
+		<div class="col-sm-9">
+			<div class="row">
+			<div class="col-sm-6">
+				<div class="language">
+					<strong>Dutch</strong>
+				</div>
+				<div class="fluency">
+					Native speaker
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="language">
+					<strong>English</strong>
+				</div>
+				<div class="fluency">
+					Full professional proficiency
+				</div>
+			</div>
+			</div>
+		</div>
+	</section>
+
+	<section id="interests" class="row">
+		<aside class="col-sm-3">
+			<h3>Interests</h3>
+		</aside>
+		<div class="col-sm-9">
+			<div class="row">
+			<div class="col-sm-6">
+				<div class="name">
+					<h4>Photography</h4>
+				</div>
+				<ul class="keywords">
+					<li>Street photography</li>
+					<li>Analog photography</li>
+					<li>Film scanning</li>
+				</ul>
+			</div>
+			<div class="col-sm-6">
+				<div class="name">
+					<h4>Music</h4>
+				</div>
+				<ul class="keywords">
+					<li>Composing electronic music</li>
+					<li>Playing drums</li>
+					<li>Going to concerts</li>
+					<li>Classical, Modern, Electronic, Rock, Metal, Experimental, Hip-hop</li>
+				</ul>
+			</div>
+			</div>
+		</div>
+	</section>
+	
+
+	</div>
+	
+	</body>
+</html>
