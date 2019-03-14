@@ -52,11 +52,11 @@
     },
     {
       "company": "Personal",
-      "position": "Sabbaticle",
+      "position": "Sabbatical",
       "website": "http://bramkok.com",
       "startDate": "2016-08-01",
       "endDate": "2017-07-01",
-      "summary": "A year of personal sabbaticle after having worked for ten years.",
+      "summary": "A year of personal sabbatical after having worked for ten years.",
       "highlights": [
         "Photography: developed a clear style and aesthetic by doing photography on a full-time basis.",
         "Technology: broadening of skills in React, Node.js, Python, Bash, Docker."
@@ -68,13 +68,13 @@
       "website": "http://simplecheck.nl",
       "startDate": "2014-08-01",
       "endDate": "2016-08-01",
-      "summary": "Simple Check offers businesses a medical check-up to prevent disease and absenteeism. With a mixture of positivity and new technology they offer employees ways to improve their health.",
+      "summary": "Simple Check offers businesses a medical check-up to prevent disease and absenteeism. With a mixture of positivity and new technology, they offer employees ways to improve their health.",
       "highlights": [
         "JavaScript (ECMAScript 2015), AngularJS, D3, Node.js",
         "Managed a group of outsourced developers working on the backend product.",
         "Developed the front-end product (Angular.JS) consisting out of a 'Health Dashboard' for customers to gain insights in their health and to improve their health and well being.",
         "Developed marketing, brand, and content strategy around Simple Check.",
-        "Hired a full time content marketeer and became an authority on the subject of Health Checks.",
+        "Hired a full-time content marketeer and became an authority on the subject of Health Checks.",
         "Developed a sales strategy with an interactive product demo for sales calls."
       ]
     },
@@ -84,7 +84,7 @@
       "website": "http://teamloyalty.nl",
       "startDate": "2014-08-01",
       "endDate": "2016-08-01",
-      "summary": "Team Loyalty turns happy customers into loyal customers. They apply a method called 'event matching' that improves customer relationships by investing in professional and personal interests of the customer.",
+      "summary": "Team Loyalty turns happy customers into loyal customers. They apply a method called 'event matching' that improves customer relationships by investing in the professional and personal interests of the customer.",
       "highlights": [
         "JavaScript (ECMAScript 2015), D3, Node.js",
         "Developed the front-end product for a SaaS solution that offered customer deep insights into their customer relationships.",
@@ -118,9 +118,9 @@
       "summary": "Bureau Registratie Integriteit Volkshuisvesting provides integrity screenings. Bureau REIN informs, screens and commits supervisory board members, directors and managers using an online questionnaire and a report created by a compliance officer.",
       "highlights": [
         "PHP, MySQL, HTML, CSS, JavaScript",
-        "Created a full-stack enviroment for creating and filling out questionnaires",
+        "Created a full-stack environment for creating and filling out questionnaires",
         "Worked together with compliance officers and learned a lot about laws and policies concerning governance",
-        "Learned how supervisory boards that consist out of conservative old-boys networks don't embrace innovation."
+        "Learned how supervisory boards that consist of conservative old-boys networks don't embrace innovation."
       ]
     },
     {
@@ -129,11 +129,11 @@
       "website": "http://cbk.org",
       "startDate": "2009-03-01",
       "endDate": "2014-07-01",
-      "summary": "CBK Profiling People is a recruitment agency that recruits people for temporary and permanent positions mostly in the dutch social housing sector.",
+      "summary": "CBK Profiling People is a recruitment agency that recruits people for temporary and permanent positions mostly in the Dutch social housing sector.",
       "highlights": [
         "PHP, MySQL, HTML, CSS, JavaScript",
         "Built a Content Management System and Applicant Tracking System",
-        "Started to work related projects within the company." 
+        "Started new projects within the company related to industry it operates in." 
       ]
     },
     {
@@ -142,10 +142,10 @@
       "website": "http://luzac.nl",
       "startDate": "2009-01-01",
       "endDate": "2010-12-01",
-      "summary": "Luzac is a private school with over twenty schools in The Netherlands where they offer education that's tailored to the students needs.",
+      "summary": "Luzac is a private school with over twenty schools in The Netherlands where they offer education that's tailored to the student's needs.",
       "highlights": [
         "HTML, CSS, JavaScript",
-        "Provided solutions to administrative tasks that allowed for teachers to spend more time on teaching instead of unnecsessary logistics."
+        "Provided solutions to administrative tasks that allowed for teachers to spend more time on teaching instead of unnecessary logistics."
       ]
     },
     {
@@ -154,7 +154,7 @@
       "website": "https://twitter.com/twittermail",
       "startDate": "2007-06-01",
       "endDate": "2009-12-01",
-      "summary": "Back in 2007, in the 'pre-iPhone era', Twitter offered only a simple web app and SMS for posting tweets on mobile devices. TwitterMail extended this with an email service that allowed for users to publish tweets via a secret email address that was hooked up to the Twitter API. This was especially popular in Asia and among BlackBerry users who often could only use email for communication.",
+      "summary": "Back in 2007, in the 'pre-iPhone era', Twitter offered only a simple web app and SMS for posting tweets on mobile devices. TwitterMail extended this with an email service that allowed users to publish tweets via a secret email address that was hooked up to the Twitter API. This was especially popular in Asia and among BlackBerry users who often could only use email for communication.",
       "highlights": [
         "HTML, CSS, JavaScript",
         "Meeting the Twitter founders who we're very happy with TwitterMail extending the Twitter ecosystem by building on top of the Twitter API.",
@@ -169,7 +169,7 @@
       "website": "http://twones.com",
       "startDate": "2008-03-01",
       "endDate": "2008-12-01",
-      "summary": "Twones BV provides a music service to store, organize, find, and share music played over the Web or on computer. It aggregates music online and offline in a single place; and enables users to socialize, and discover new music and music services.",
+      "summary": "Twones BV provides a music service to store, organize, find, and share music played over the Web or computer. It aggregates music online and offline in a single place, and enables users to socialize, and discover new music and music services.",
       "highlights": [
         "HTML, CSS, JavaScript",
         "Working in the Amsterdam Web 2.0 startup scene which a more 'gezellig' (cosy) version of today's startup scene in Amsterdam.",
@@ -183,11 +183,11 @@
       "website": "http://ibood.com",
       "startDate": "2007-11-01",
       "endDate": "2008-11-01",
-      "summary": "PCZapper.TV offers a way to view online video content on the regular TV combining a hardware product and an online platform.",
+      "summary": "PCZapper.TV offers a way to view online video content on regular TV combining a hardware product and an online platform.",
       "highlights": [
         "Adobe Illustrator, Adobe Photoshop, HTML, CSS",
         "Worked within a larger group of developers.",
-        "Designed web interfaces for a KPN website that reaced daily 100K+ visitors."
+        "Designed web interfaces for a KPN website that reached daily 100K+ visitors."
       ]
     },
     {
@@ -282,7 +282,7 @@
     {
       "name": "Music",
       "keywords": [
-        "Composing electronical music",
+        "Composing electronic music",
         "Playing drums",
         "Going to concerts",
         "Classical, Modern, Electronic, Rock, Metal, Experimental, Hip-hop"
