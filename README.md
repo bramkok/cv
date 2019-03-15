@@ -18,4 +18,6 @@ Or:
 
 ### Export resume to github page
 
+Export resume to [the dedicated GitHub page](https://cv.bramkok.com).
+
 `npm run export-docs`
